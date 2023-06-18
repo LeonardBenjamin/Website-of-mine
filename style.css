@@ -42,3 +42,16 @@ div {
     display: flex;
     flex-wrap: wrap;
 }
+ 
+ /* Dành cho điện thoại */
+ @media all and (max-width: 480px) {
+ 
+ 
+ }
+ 
+ 
+ /* Dành cho máy tính bảng */
+ @media all and (max-width: 1024px) {
+ 
+ 
+ }
