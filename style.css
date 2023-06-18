@@ -1,0 +1,44 @@
+*{
+    background-color: blanchedalmond;
+}
+
+div {
+   text-align: center; 
+}
+
+.Duc_Anh {
+    text-align: justify;
+    width: 500px;
+    margin-left: 250px;
+}
+
+.Du_Linh {
+    text-align: justify;
+    width: 500px;
+    margin-left: 250px;
+}
+
+.Duc_Anh {
+    border: 2px solid;
+    padding-left: 15px;
+    height: 24vh;
+    width: 12vw;
+    margin-top: 15px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.Du_Linh{
+    border: 2px solid;
+    padding-left: 15px;
+    height: 24vh;
+    width: 12vw;
+    margin-top: 15px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
